@@ -6,5 +6,5 @@
 ## - Finished a bootcamp at neuefische and now I'm looking for a React Job! <img src="https://user-images.githubusercontent.com/47364895/157631839-2a5bf427-c30b-41ca-a433-0d7217d059af.gif" alt="react parrot" width=36px/>
 
 
-## - Also studying Computer Science B.Sc remotely at the "AKAD Fernhochschule Stuttgart" <img src="https://user-images.githubusercontent.com/47364895/157634218-c9488c1e-c961-46ac-9104-eaeeb6c7abb6.gif" alt="react parrot" width=40px/>
+## - Also studying Computer Science B.Sc remotely at the "AKAD Fernhochschule Stuttgart" <img src="https://user-images.githubusercontent.com/47364895/157634218-c9488c1e-c961-46ac-9104-eaeeb6c7abb6.gif" alt="react parrot" width=36px/>
 
