@@ -3,7 +3,6 @@
 
 
 
-### -interested in new Tech 👨‍💻
 
 
 
