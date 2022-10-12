@@ -1,5 +1,5 @@
 <!-- # Hi I'm Marc! -->
-<img src="https://user-images.githubusercontent.com/47364895/157626274-bd64cddc-c725-4776-88b7-33244a31b285.gif" alt="party parrot laptop" width=48px style="horizontal-align:middle/> 
+<img src="https://user-images.githubusercontent.com/47364895/157626274-bd64cddc-c725-4776-88b7-33244a31b285.gif" alt="party parrot laptop" width=48px style="vertical-align:middle"/> 
  
 <!-- ## - Im excited to learn about new Tech!  <img src="https://user-images.githubusercontent.com/47364895/157632227-295189c4-57a3-4b51-bfab-6f7efaf99635.gif" alt="up and down parrot" width=36px/> -->
  
